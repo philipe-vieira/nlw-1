@@ -3,3 +3,6 @@ uploads/*
 !uploads/.gitkeep
 
 *.sqlite
+
+yarn-error.log
+yarn.lock
